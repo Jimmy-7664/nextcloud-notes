@@ -12,6 +12,7 @@
     <string name="action_sorting_method">Metodo di ordinamento</string>
     <string name="simple_cancel">Annulla</string>
     <string name="simple_edit">Modifica</string>
+    <string name="simple_remove">Rimuovi</string>
     <string name="action_edit_save">Salva</string>
     <string name="simple_about">Informazioni</string>
     <string name="simple_link">Collegamento</string>
@@ -246,4 +247,6 @@
     <string name="no_account_configured_yet">Ancora nessun account configurato</string>
     <string name="no_other_accounts">Non hai configurato ancora alcun account.</string>
     <string name="context_based_formatting">Finestra di formattazione basata sul contesto</string>
+    <string name="remove_account">Rimuovi %1$s</string>
+
     </resources>
